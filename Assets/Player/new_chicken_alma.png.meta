@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: 7a036944e7440f74ab9c42998ce11bb4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7661883804732365320
+    second: new_chicken_alma_0
+  - first:
+      213: -5855567202549355462
+    second: new_chicken_alma_1
+  - first:
+      213: 3942331908335925475
+    second: new_chicken_alma_2
+  - first:
+      213: -4303893020017775101
+    second: new_chicken_alma_3
+  - first:
+      213: 84538180588821440
+    second: new_chicken_alma_4
+  - first:
+      213: -7875072576064220353
+    second: new_chicken_alma_5
+  - first:
+      213: -643524264589196440
+    second: new_chicken_alma_6
+  - first:
+      213: 4920063999569946020
+    second: new_chicken_alma_7
+  - first:
+      213: -2303500986613445632
+    second: new_chicken_alma_8
+  - first:
+      213: 4392145843496242784
+    second: new_chicken_alma_9
+  - first:
+      213: -3019732923994703081
+    second: new_chicken_alma_10
+  - first:
+      213: 2417992688030960005
+    second: new_chicken_alma_11
+  - first:
+      213: -8281455157656491728
+    second: new_chicken_alma_12
+  - first:
+      213: 5461654768204147117
+    second: new_chicken_alma_13
+  - first:
+      213: 7912580687769469003
+    second: new_chicken_alma_14
+  - first:
+      213: -6461721721194312680
+    second: new_chicken_alma_15
+  - first:
+      213: 7789602786643646
+    second: new_chicken_alma_16
+  - first:
+      213: -9130031276640735288
+    second: new_chicken_alma_17
+  - first:
+      213: -2626017739386025968
+    second: new_chicken_alma_18
+  - first:
+      213: -3760939659708761924
+    second: new_chicken_alma_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: new_chicken_alma_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 257
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5eb9426458ba590800000000000000
+      internalID: -7661883804732365320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_chicken_alma_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 257
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c2e9547a8dcbea0800000000000000
+      internalID: -5855567202549355462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_chicken_alma_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 257
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8fc07bbf9f5b630800000000000000
+      internalID: 3942331908335925475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_chicken_alma_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 193
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30eae8ee9108544c0800000000000000
+      internalID: -4303893020017775101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_chicken_alma_4
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 193
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb54fff6075c2100800000000000000
+      internalID: 84538180588821440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_chicken_alma_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 193
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33954b473f16b290800000000000000
+      internalID: -7875072576064220353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_chicken_alma_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 129
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86301d4471eb117f0800000000000000
+      internalID: -643524264589196440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_chicken_alma_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 129
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5ed86d324974440800000000000000
+      internalID: 4920063999569946020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_chicken_alma_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 129
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cc421ae025800e0800000000000000
+      internalID: -2303500986613445632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_chicken_alma_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 65
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e4d43cf5904fc30800000000000000
+      internalID: 4392145843496242784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_chicken_alma_10
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 65
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b7eb4a7e0c716d0800000000000000
+      internalID: -3019732923994703081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_chicken_alma_11
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 65
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589c397e98f6e8120800000000000000
+      internalID: 2417992688030960005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_chicken_alma_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039ee80496c521d80800000000000000
+      internalID: -8281455157656491728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_chicken_alma_13
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da960a81312bbcb40800000000000000
+      internalID: 5461654768204147117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_chicken_alma_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b408d1f76322fcd60800000000000000
+      internalID: 7912580687769469003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_chicken_alma_15
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c89ca845a5356a0800000000000000
+      internalID: -6461721721194312680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_chicken_alma_16
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe0a0b3a9cab1000800000000000000
+      internalID: 7789602786643646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_chicken_alma_17
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf6f974dec9b4180800000000000000
+      internalID: -9130031276640735288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_chicken_alma_18
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018850e77c28e8bd0800000000000000
+      internalID: -2626017739386025968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_chicken_alma_19
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb871694e457ecbc0800000000000000
+      internalID: -3760939659708761924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
