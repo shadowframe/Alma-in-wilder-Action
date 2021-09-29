@@ -38702,8 +38702,8 @@ GameObject:
   - component: {fileID: 1125790964}
   - component: {fileID: 1125790963}
   - component: {fileID: 1125790962}
-  - component: {fileID: 1125790961}
   - component: {fileID: 1125790965}
+  - component: {fileID: 1125790966}
   m_Layer: 0
   m_Name: entchen
   m_TagString: Untagged
@@ -38725,24 +38725,6 @@ Transform:
   m_Father: {fileID: 870450453}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1125790961
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1125790959}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6f0503fdc05915a4abdfadc0d381711d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  moveSpeed: 2
-  isWalking: 0
-  walkTime: 2
-  walkCounter: 0
-  waitTime: 0.5
-  waitCounter: 0
 --- !u!61 &1125790962
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -38760,7 +38742,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.2, y: 0.29}
+    oldSize: {x: 0.23, y: 0.29}
     newSize: {x: 0.2, y: 0.3}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -38851,7 +38833,7 @@ Animator:
   m_GameObject: {fileID: 1125790959}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 9fa9abdf2e354b84485bd12d10f03a4b, type: 2}
+  m_Controller: {fileID: 9100000, guid: e1397ae50a5ffe3428affaa67ba48d1d, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -38860,6 +38842,25 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &1125790966
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1125790959}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf689153a9a3479488e6c35de1a10107, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 2
+  animator: {fileID: 1125790965}
+  isWalking: 0
+  walkTime: 2
+  walkCounter: 0
+  waitTime: 0.5
+  waitCounter: 0
 --- !u!1 &1320531235
 GameObject:
   m_ObjectHideFlags: 0
@@ -40110,7 +40111,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &1966864189
 SpriteRenderer:
   m_ObjectHideFlags: 0

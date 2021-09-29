@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637684375437992321
+      ticks: 637684375440000000
     m_Hash: 1380717982
   m_LockFileStatus:
     m_FilePath: C:/Users/janwe/Desktop/Alma in wilder Action/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637684375438202339
+      ticks: 637684375440000000
     m_Hash: 3155511297
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
